@@ -4,4 +4,5 @@
 **/jsconfig.json
 .sfdx
 .vscode
+.temp
 src-solutions*
