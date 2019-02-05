@@ -3,11 +3,13 @@
 ## Ursus Park sample app for Trailhead project Build Flexible Apps with Lightning Web Components
 
 ### Resource Links:
-Trailhead project
-https://trailhead.salesforce.com/en/content/learn/projects/lwc-build-flexible-apps?trailmix_creator_id=00550000006yDdKAAU&trailmix_id=lightning-web-components
+[Trailhead project](https://trailhead.salesforce.com/en/content/learn/projects/lwc-build-flexible-apps?trailmix_creator_id=00550000006yDdKAAU&trailmix_id=lightning-web-components)
 
-Mick Wheeler blog post
-https://mickwheelz.net/index.php/2018/10/03/continuous-integration-with-github-sfdx-and-circleci-easier-than-you-think/
+[Mick Wheeler blog post](https://mickwheelz.net/index.php/2018/10/03/continuous-integration-with-github-sfdx-and-circleci-easier-than-you-think/)
+
+[Doc on setting up Connected App](https://docs.google.com/document/d/1deSus_938pt4832rDeND51ppnOgKNZxM-dFIyZJJUsw/edit?usp=sharing)
+
+[Another CircleCI yaml config example](https://github.com/forcedotcom/sfdx-travisci/blob/master/.circleci/config.yml)
 
 
 ### Instructions to setup CI with CircleCI:

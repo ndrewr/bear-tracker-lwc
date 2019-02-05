@@ -6,3 +6,5 @@
 .vscode
 .temp*
 src-solutions*
+
+**/node_modules

@@ -1,0 +1,25 @@
+{
+  "name": "bear-tracker-lwc",
+  "version": "1.0.0",
+  "description": "Sample trailhead project for Lightning Web Components.",
+  "dependencies": {},
+  "devDependencies": {
+    "@salesforce/lwc-jest": "^0.4.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:lwc": "lwc-jest --coverage",
+    "test:lwc:watch": "lwc-jest --watch",
+    "test:lwc:debug": "lwc-jest --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trailheadapps/build-apps-with-lwc.git"
+  },
+  "author": "Andrew R Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndrewr/bear-tracker-lwc"
+  },
+  "homepage": "https://github.com/trailheadapps/build-apps-with-lwc#readme"
+}
