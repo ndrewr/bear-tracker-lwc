@@ -2,4 +2,5 @@
 echo "Installing Dependencies... "
 sudo npm install -global sfdx-cli
 #Test dependencies i.e. Jest
-sudo npm install
+# sudo npm install
+yarn
