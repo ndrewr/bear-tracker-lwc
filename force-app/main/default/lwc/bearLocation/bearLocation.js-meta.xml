@@ -3,14 +3,14 @@
     <apiVersion>45.0</apiVersion>
     <isExposed>true</isExposed>
     <targets>
-        <target>lightning__RecordPage</target>
+	    <target>lightning__RecordPage</target>
     </targets>
-    <targetConfigs>
     <!-- Ensures component can be placed only on Bear record pages. -->
-        <targetConfig targets="lightning__RecordPage">
-            <objects>
-                <object>Bear__c</object>
-            </objects>
-        </targetConfig>
+    <targetConfigs>
+	    <targetConfig targets="lightning__RecordPage">
+		    <objects>
+			    <object>Bear__c</object>
+		    </objects>
+	    </targetConfig>
     </targetConfigs>
 </LightningComponentBundle>
